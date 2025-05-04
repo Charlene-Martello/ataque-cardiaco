@@ -16,10 +16,11 @@ Este projeto utiliza um banco de dados sintético retirado da plataforma Kaggle,
   
 ## Modelo Escolhido
 O Modelo 2, com 8 variáveis, apresentou os melhores resultados:
-- Acurácia: 87,7% (teste).
-- AUC: 95,5%.
-- GINI: 91,1%.
-- KS: 75,3%.
+- Acurácia (teste): 87,7%.
+- AUC (teste): 95,5%.
+- GINI (teste): 91,1%.
+- KS (teste): 75,3%.
+- Recall: 91.1%
 
 ## Conclusões
 Os principais fatores associados ao ataque cardíaco incluem:
